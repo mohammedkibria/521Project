@@ -1,5 +1,5 @@
 # 521Project
-Visual Analysis for Kobe, MJ, and Lebron
+Visual Analysis for Kobe, MJ, and Lebron Statistics
 
 A constant debate amongst NBA fans is who is ‘better’ at basketball, Michael Jordan? Kobe
 Bryant? Or Lebron James? Being a huge basketball fan myself, and not particularly bias towards
